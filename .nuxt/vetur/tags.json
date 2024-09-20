@@ -1,20 +1,3 @@
-{
-  "NuxtLogo": {
-    "description": "Auto imported from components/NuxtLogo.vue"
-  },
-  "Tutorial": {
-    "description": "Auto imported from components/Tutorial.vue"
-  },
-  "VuetifyLogo": {
-    "description": "Auto imported from components/VuetifyLogo.vue"
-  },
-  "AccessibilityPlotPage": {
-    "description": "Auto imported from components/accessibilityPlotPage.vue"
-  },
-  "CitationsPlotPage": {
-    "description": "Auto imported from components/citationsPlotPage.vue"
-  },
-  "ComponentCard": {
-    "description": "Auto imported from components/componentCard.vue"
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:788109ef3b310715aa0d9d522db1ffd54b049d325c05d411cacc8c4bf4c2987c
+size 573

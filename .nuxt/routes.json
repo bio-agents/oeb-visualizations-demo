@@ -1,16 +1,3 @@
-[
-  {
-    "name": "inspire",
-    "path": "/inspire",
-    "component": "/Users/evabsc/projects/oeb-visualizations-demo/pages/inspire.vue",
-    "chunkName": "pages/inspire",
-    "_name": "_0cc3e920"
-  },
-  {
-    "name": "index",
-    "path": "/",
-    "component": "/Users/evabsc/projects/oeb-visualizations-demo/pages/index.vue",
-    "chunkName": "pages/index",
-    "_name": "_1d29ace8"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:eb13ff04ce98104c088365754fe45d014a1dbe53a10dc444190b3e552c37e985
+size 390
